@@ -28,3 +28,7 @@ $(document).on("click", '[data-toggle="lightbox"]', function (event) {
 const test = () => {
     return false
 }
+
+const setTicket = () => {
+    return true
+}

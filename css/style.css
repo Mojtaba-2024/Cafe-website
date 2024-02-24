@@ -873,3 +873,9 @@ a:focus {
 .coffe13-img{
   height: 350px;
 }
+
+form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
