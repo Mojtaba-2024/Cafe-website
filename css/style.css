@@ -873,3 +873,9 @@ a:focus {
 .coffe13-img{
   height: 350px;
 }
+
+h2 {
+  color: #cecece;
+  background-color: #333;
+  text-align: center;
+}
