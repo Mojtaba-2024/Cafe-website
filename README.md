@@ -59,6 +59,10 @@ ___
 
 ![Github-Image](https://octodex.github.com/images/dojocat.jpg)
 
+___
+
+![Npm Downloads](https://img.shields.io/npm/dw/express)
+
 <!-- ## Sabzlearn Git Course Repo
 ### Sabzlearn Git Course Repo
 #### Sabzlearn Git Course Repo
@@ -66,5 +70,3 @@ ___
 ###### Sabzlearn Git Course Repo -->
 
 ##site demo (https://linamohamed89.github.io/Cafe-website/)
-
-![](https://github.com/Linamohamed89/Cafe-website/blob/main/screenshot.png)
